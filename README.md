@@ -1127,7 +1127,7 @@ Merge
 
 # 👥 Team
 
-## Maharishee Ambati
+## V Gopika Reddy
 
 Founder • Full Stack Developer • AI Engineer
 
